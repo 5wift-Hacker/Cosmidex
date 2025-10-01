@@ -1,4 +1,4 @@
-## Cosmidex - 👽 Alien / Human Integration App
+## Cosmidex - 👽 Alien / Human Integration Assistance (AHIA) App
 
 This app was developed and managed continuously to assist with the inevitable integration between humans and other species of beings that are either of or not of this Earth. (NHI is a common term used to encompass the entirety).
 
