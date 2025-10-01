@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct SpeciesSpyApp: App {
+struct CosmidexApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }

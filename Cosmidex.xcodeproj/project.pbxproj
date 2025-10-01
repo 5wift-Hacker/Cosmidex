@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		93813B642E670CB900125C75 /* SpeciesSpy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpeciesSpy.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		93813B642E670CB900125C75 /* Cosmidex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cosmidex.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		93813B652E670CB900125C75 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				93813B642E670CB900125C75 /* SpeciesSpy.app */,
+				93813B642E670CB900125C75 /* Cosmidex.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		93813B632E670CB900125C75 /* SpeciesSpy */ = {
+		93813B632E670CB900125C75 /* Cosmidex */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 93813B6F2E670CB900125C75 /* Build configuration list for PBXNativeTarget "SpeciesSpy" */;
+			buildConfigurationList = 93813B6F2E670CB900125C75 /* Build configuration list for PBXNativeTarget "Cosmidex" */;
 			buildPhases = (
 				93813B602E670CB900125C75 /* Sources */,
 				93813B612E670CB900125C75 /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				93813B662E670CB900125C75 /* SpeciesSpy */,
 			);
-			name = SpeciesSpy;
+			name = Cosmidex;
 			packageProductDependencies = (
 			);
 			productName = SpeciesSpy;
-			productReference = 93813B642E670CB900125C75 /* SpeciesSpy.app */;
+			productReference = 93813B642E670CB900125C75 /* Cosmidex.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 93813B5F2E670CB900125C75 /* Build configuration list for PBXProject "SpeciesSpy" */;
+			buildConfigurationList = 93813B5F2E670CB900125C75 /* Build configuration list for PBXProject "Cosmidex" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				93813B632E670CB900125C75 /* SpeciesSpy */,
+				93813B632E670CB900125C75 /* Cosmidex */,
 			);
 		};
 /* End PBXProject section */
@@ -313,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		93813B5F2E670CB900125C75 /* Build configuration list for PBXProject "SpeciesSpy" */ = {
+		93813B5F2E670CB900125C75 /* Build configuration list for PBXProject "Cosmidex" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				93813B6D2E670CB900125C75 /* Debug */,
@@ -322,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		93813B6F2E670CB900125C75 /* Build configuration list for PBXNativeTarget "SpeciesSpy" */ = {
+		93813B6F2E670CB900125C75 /* Build configuration list for PBXNativeTarget "Cosmidex" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				93813B702E670CB900125C75 /* Debug */,
