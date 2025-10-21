@@ -7,4 +7,6 @@ This app was developed (and is managed continuously) to assist with the inevitab
 - The screens are simple, yet elegant, incorporating a 'favorite' button, and a zoom animation when navigating through your selections, both in and out.
 
 - This app may shift to utilizing an API for storage solutions in the future.
+
+- This app is far from complete, but it is available here to view. No shared licensing.
  
